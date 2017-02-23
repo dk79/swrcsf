@@ -1,0 +1,39 @@
+main {
+  padding-top: 100px;
+}
+
+* {
+  text-indent: 15px;
+}
+
+main .row {
+  margin-bottom: 10px;
+}
+
+header {
+  padding-top: 15px;
+  height: 135px;
+  width: 100%;
+  background-color: orange;
+}
+
+div h1 {
+  text-align: left;
+  margin-left: auto;
+}
+div h2 {
+  text-align: left;
+  margin-left: 4px;
+}
+
+div h3 {
+  font-weight: lighter;
+  text-align: left;
+  margin-left: auto;
+}
+
+div h4 {
+  font-weight: lighter;
+  text-align: left;
+  margin-left: 5px;
+}
